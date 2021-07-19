@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marshall LeVett
+- 👀 I’m interested in Python, Matlab, Machine Learning, Optimization, and Data Scient
+- 🌱 I’m currently learning Python
+- 📫 https://www.linkedin.com/in/marshall-levett/
